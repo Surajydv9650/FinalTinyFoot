@@ -1,0 +1,20 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_1_366" fill="white">
+<path d="M0 48H16V64H0V48Z"/>
+</mask>
+<path d="M0 64H-1V65H0V64ZM16 63H0V65H16V63ZM1 64V48H-1V64H1Z" fill="white" mask="url(#path-1-inside-1_1_366)"/>
+<mask id="path-3-inside-2_1_366" fill="white">
+<path d="M48 64L48 48L64 48L64 64L48 64Z"/>
+</mask>
+<path d="M64 64L64 65L65 65L65 64L64 64ZM63 48L63 64L65 64L65 48L63 48ZM64 63L48 63L48 65L64 65L64 63Z" fill="white" mask="url(#path-3-inside-2_1_366)"/>
+<mask id="path-5-inside-3_1_366" fill="white">
+<path d="M64 16L48 16L48 -1.39876e-06L64 0L64 16Z"/>
+</mask>
+<path d="M64 0L65 8.74228e-08L65 -1L64 -1L64 0ZM48 0.999999L64 1L64 -1L48 -1L48 0.999999ZM63 -8.74228e-08L63 16L65 16L65 8.74228e-08L63 -8.74228e-08Z" fill="white" mask="url(#path-5-inside-3_1_366)"/>
+<mask id="path-7-inside-4_1_366" fill="white">
+<path d="M16 0L16 16L-6.99382e-07 16L0 -6.99382e-07L16 0Z"/>
+</mask>
+<path d="M0 -6.99382e-07L4.37114e-08 -1L-1 -1L-1 -7.43094e-07L0 -6.99382e-07ZM0.999999 16L1 -6.55671e-07L-1 -7.43094e-07L-1 16L0.999999 16ZM-4.37114e-08 0.999999L16 1L16 -1L4.37114e-08 -1L-4.37114e-08 0.999999Z" fill="white" mask="url(#path-7-inside-4_1_366)"/>
+<line x1="47" y1="32.1655" x2="14" y2="32.1655" stroke="white"/>
+<line x1="30" y1="48.5" x2="30" y2="15.5" stroke="white"/>
+</svg>

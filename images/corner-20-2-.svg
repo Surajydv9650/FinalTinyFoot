@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_1_372" fill="white">
+<path d="M64 64L0 64L-6.17788e-06 -2.56217e-06L64 -7.62939e-06L64 64Z"/>
+</mask>
+<path d="M64 -7.62939e-06L66 -7.78775e-06L66 -2.00001L64 -2.00001L64 -7.62939e-06ZM-5.98482e-06 2L64 1.99999L64 -2.00001L-6.37094e-06 -2L-5.98482e-06 2ZM62 -7.47104e-06L62 64L66 64L66 -7.78775e-06L62 -7.47104e-06Z" fill="#E08F6C" mask="url(#path-1-inside-1_1_372)"/>
+</svg>
